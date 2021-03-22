@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.nav_bar{
+    background-color: rgb(206, 177, 202);
+}
+.logo{
+    width: 150px;
+    height: 60px;
+}
+.image{
+    width: 1348px;
+    height: 550px;
+}
+#b{
+    margin-left: 600px;
+    color: brown;
+}
+.a{
+    color: black;
+    padding-left: 50px;
+    text-decoration: none;
+}
+.Z{
+    width: 1348px;
+    height: 200px;
+    /* background-color: rgb(206, 177, 202); */
+}
+.red{
+    color:brown;
+}
+#text{
+    padding-left: 70px;
+    
+}
+.v{
+    width: 50px;
+    height: 50px;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+.bb{
+    padding-left: 200px;
+    color: white;
+}
+.bbb{
+    padding-left: 150px;
+    color: white;
+}
+.bbbb{
+    padding-left: 150px;
+    color: white;
+}
+.bbbbb{
+    padding-left: 150px;
+    color: white;
+}
+.l{
+    padding-left: 1000px;
+    width: 200px;
+    height: 300px;
+}
+.footer{
+    background-color: yellowgreen;
+}
